@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I am a freshman at Gonzaga University studying Computer Science!
+![IMG_2801](https://user-images.githubusercontent.com/64185930/192167875-61793e7d-7d86-45ad-ae07-1dd76e76451e.JPG)
