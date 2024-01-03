@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a freshman at Gonzaga University studying Computer Science!
+I am a sophomore at Gonzaga University studying Computer Science!
